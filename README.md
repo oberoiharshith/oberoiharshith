@@ -1,4 +1,5 @@
-<p align="left">Hello 👋, I'm Harshith Oberoi! I'm currently pursuing a Master’s in Data Science, specializing in Statistics, at Rutgers University, expecting to graduate in December 2024. With over three years of professional experience, I've honed my skills in machine learning, data analysis, and AI-driven solutions across various industries.<br><br>I'm deeply invested in exploring Natural Language Processing and Large Language Models (LLMs), aiming to harness these advanced technologies to drive innovation and impactful solutions. My professional journey includes developing AI solutions for top-tier clients like Mercedes Benz and conducting advanced statistical analyses to improve healthcare outcomes.<br><br>Feel free to check out my projects and collaborations here on GitHub. Let’s connect and build something great together!</p>
+<p align="left">Thanks for checking out my profile! I'm an enthusiastic Data Scientist passionate about leveraging predictive modeling and AI to solve real-world challenges. With a strong foundation in Python, R, Java, and various machine learning technologies, I thrive in dynamic environments, consistently aligning team efforts with business goals. Currently enriching my analytical skills with a Master's in Data Science at Rutgers University, I am always keen to discuss innovative projects and opportunities.</p>
+
 
 ###
 
