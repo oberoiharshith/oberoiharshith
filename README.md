@@ -28,4 +28,4 @@ Reduced Mercedes-Benz system test-cycle by **60%**, saving ~240 QA hours per rel
 ---
 
 ### 🤝 Let’s Connect
-[Portfolio](https://oberoiharshith.github.io/portfolio) · [LinkedIn](https://www.linkedin.com/in/harshith-oberoi/) · • oberoiharshith@gmail.com
+[Portfolio](https://oberoiharshith.github.io/portfolio) · [LinkedIn](https://www.linkedin.com/in/harshith-oberoi/) · oberoiharshith@gmail.com
