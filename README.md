@@ -1,31 +1,58 @@
 <h1 align="center">Harshith Oberoi</h1>
 <p align="center">
-  Data Scientist &nbsp;•&nbsp; MLOps & Orchestration &nbsp;•&nbsp; Cloud Data Engineering<br>
-  <em>Cut Mercedes test-validation time <strong>60%</strong> (7.4 h → 2.9 h)</em>
+  Data Scientist | 4+ YOE | Production ML & Analytics<br>
+  <em>Cut Mercedes QA time <strong>60%</strong> • Improved forecasting <strong>28%</strong> • Built GenAI compliance workflow</em>
+</p>
+
+<p align="center">
+  <a href="https://oberoiharshith.github.io/portfolio">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/harshith-oberoi/">LinkedIn</a> •
+  <a href="mailto:oberoiharshith8@gmail.com">Email</a>
 </p>
 
 ---
 
-### 🔧 Tech Toolkit
-| ML / AI | Data Eng | Cloud | Languages |
-|---------|----------|-------|-----------|
-| XGBoost · TensorFlow · PyTorch | Spark · Airflow · dbt · MLflow | AWS · Azure · GCP | Python · SQL · Java |
+## 🔧 Stack
+
+**ML/AI:** Python • XGBoost • PyTorch • LangChain • FAISS • ARIMA/LSTM  
+**Data:** SQL • PySpark • Airflow • Databricks • MLflow  
+**Cloud:** AWS • Azure • GCP
 
 ---
 
-### 🚀 Featured Projects
-| Project | Impact | Stack |
-|---------|--------|-------|
-| **Lang2Query** | ROUGE-1 ↑ 77% | Mistral-7B · LoRA · RAG · FastAPI |
-| **CloudBridge** | Power BI refresh < 5 min | ADF · Databricks · Synapse |
-| **SignalSense** | Sharpe 1.8 over 5 yrs | XGBoost · Vertex AI · MLflow |
+## 🚀 Featured Projects
+
+| Project | What It Does | Impact | Tech |
+|---------|--------------|--------|------|
+| **[OTT Churn Copilot](https://ott-genai-churn-copilot.streamlit.app/)** | ML + GenAI for customer retention | +6.1pp retention lift | LightGBM • LangChain • Streamlit |
+| **[Lang2Query](https://github.com/oberoiharshith/Lang2Query)** | Text-to-SQL translation | 77% ROUGE improvement | Mistral-7B • LoRA • RAG |
+| **[Last Mile Optimizer](https://github.com/oberoiharshith/last-mile-simulation)** | Delivery network simulation + ML dispatch | Improved SLA compliance | XGBoost • Discrete Event Sim |
+| **[Conversation Analytics](https://github.com/oberoiharshith/nordstrom-conversation-analytics)** | Governed warehouse + BI layer | Decision-ready insights | SQL • LLM enrichment |
+| **[Ads ML POC](https://github.com/oberoiharshith/quora-ads-ml)** | Retrieval + Ranking + Brand Safety | End-to-end serving demo | Two-tower • CTR model |
 
 ---
 
-### 📈 Signature Win
-Reduced Mercedes-Benz system test-cycle by **60%**, saving ~240 QA hours per release through Random Forest prioritization and PySpark pipeline deployment.
+## 💼 Experience Snapshot
+
+**State Street** | Data Scientist | 2025-Present  
+Reduced reporting time 40% • >99.8% data accuracy • GenAI compliance workflow
+
+**Mercedes-Benz R&D** | Senior Analyst | 2021-2023  
+10M+ events/day platform • 60% QA reduction • +28% forecast accuracy
+
+**Persistent Systems** | Data Analyst | 2019-2021  
++15% forecasting • 20% risk model improvement • 25% faster queries
 
 ---
 
-### 🤝 Let’s Connect
-[Portfolio](https://oberoiharshith.github.io/portfolio) · [LinkedIn](https://www.linkedin.com/in/harshith-oberoi/) · oberoiharshith8@gmail.com
+## 📫 Connect
+
+Open to **Data Scientist** and **Decision Analytics** roles
+
+📧 oberoiharshith8@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/harshith-oberoi/)  
+📍 New Jersey, USA
+
+---
+
+<p align="center"><em>Building ML systems that ship 🚀</em></p>
