@@ -32,19 +32,6 @@
 
 ---
 
-## 💼 Experience Snapshot
-
-**State Street** | Data Scientist | 2025-Present  
-Reduced reporting time 40% • >99.8% data accuracy • GenAI compliance workflow
-
-**Mercedes-Benz R&D** | Senior Analyst | 2021-2023  
-10M+ events/day platform • 60% QA reduction • +28% forecast accuracy
-
-**Persistent Systems** | Data Analyst | 2019-2021  
-+15% forecasting • 20% risk model improvement • 25% faster queries
-
----
-
 ## 📫 Connect
 
 Open to **Data Scientist** and **Decision Analytics** roles
