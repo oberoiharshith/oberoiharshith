@@ -36,7 +36,7 @@
 
 Open to **Data Scientist** and **Decision Analytics** roles
 
-📧 oberoiharshith8@gmail.com  
+📧 oberoiharshith9@gmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/harshith-oberoi/)  
 📍 New Jersey, USA
 
