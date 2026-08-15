@@ -1,7 +1,7 @@
 <h1 align="center">Harshith Oberoi</h1>
 <p align="center">
   Data Scientist & Analyst | 4+ YOE | ML, Analytics & Data Storytelling<br>
-  <em>Standardized <strong>40+ KPIs</strong> at State Street • Cut Mercedes QA time <strong>60%</strong> • Improved forecasting <strong>28%</strong> • Built GenAI compliance workflow</em>
+  <em>Standardized <strong>40+ KPIs</strong> • Cut Mercedes QA time <strong>60%</strong> • Improved forecasting <strong>28%</strong> • Built GenAI compliance workflow</em>
 </p>
 <p align="center">
   <a href="https://oberoiharshith.github.io/portfolio">Portfolio</a> •
